@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog Tech | IA e o Futuro da Programação</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f4f6f9;
+    color:#333;
+}
+
+header{
+    background:#1e3a8a;
+    color:white;
+    padding:30px;
+    text-align:center;
+}
+
+main{
+    max-width:900px;
+    margin:30px auto;
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 0 15px rgba(0,0,0,.15);
+}
+
+h2{
+    color:#1e3a8a;
+}
+
+section{
+    margin-bottom:30px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th,td{
+    border:1px solid #ddd;
+    padding:12px;
+}
+
+th{
+    background:#1e3a8a;
+    color:white;
+}
+
+footer{
+    background:#1e3a8a;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+    <h1>Blog Tech</h1>
+    <p>Como a Inteligência Artificial pode transformar a profissão de Programador?</p>
+</header>
+
+<main>
+
+<section>
+<h2>Profissão escolhida</h2>
+
+<p>
+A área escolhida foi <strong>Desenvolvimento de Software (Programação)</strong>.
+Nos próximos anos, a Inteligência Artificial deverá transformar profundamente a forma
+como sistemas são criados, testados e mantidos.
+</p>
+
+</section>
+
+<section>
+
+<h2>Pergunta utilizada</h2>
+
+<p><strong>"Como a Inteligência Artificial impactará a profissão de programador nos próximos 5 a 10 anos?"</strong></p>
+
+</section>
+
+<section>
+
+<h2>Respostas das IAs</h2>
+
+<table>
+
+<tr>
+<th>IA 1</th>
+<th>IA 2</th>
+</tr>
+
+<tr>
+<td>
+A IA auxiliará na criação de códigos, testes automáticos,
+documentação e correção de erros, aumentando a produtividade dos desenvolvedores.
+</td>
+
+<td>
+A IA automatizará tarefas repetitivas, porém continuará sendo necessária
+a criatividade humana para resolver problemas complexos e desenvolver soluções inovadoras.
+</td>
+
+</tr>
+
+</table>
+
+</section>
+
+<section>
+
+<h2>Comparação</h2>
+
+<h3>Convergências</h3>
+
+<ul>
+<li>As duas IAs afirmam que a produtividade aumentará.</li>
+<li>Ambas destacam que a IA será uma ferramenta de apoio.</li>
+<li>Reconhecem que programadores continuarão sendo importantes.</li>
+</ul>
+
+<h3>Divergências</h3>
+
+<ul>
+<li>A primeira IA enfatiza mais a automação da programação.</li>
+<li>A segunda destaca mais a criatividade e o pensamento crítico.</li>
+</ul>
+
+<h3>Possibilidades</h3>
+
+<ul>
+<li>Geração automática de código.</li>
+<li>Correção de erros.</li>
+<li>Documentação automática.</li>
+<li>Testes automatizados.</li>
+<li>Maior produtividade.</li>
+</ul>
+
+<h3>Limitações e riscos</h3>
+
+<ul>
+<li>Possibilidade de erros no código gerado.</li>
+<li>Dependência excessiva da IA.</li>
+<li>Questões relacionadas à segurança e privacidade.</li>
+<li>Necessidade constante de revisão humana.</li>
+</ul>
+
+<h3>Sinais de viés</h3>
+
+<p>
+As duas respostas apresentaram uma visão bastante otimista sobre o uso da IA,
+dando menos destaque aos impactos negativos, como substituição de funções e
+problemas éticos.
+</p>
+
+</section>
+
+<section>
+
+<h2>Conclusão</h2>
+
+<p>
+A Inteligência Artificial será uma grande aliada dos programadores, tornando o
+desenvolvimento de software mais rápido e eficiente. Entretanto, ela não substitui
+habilidades humanas como criatividade, comunicação, resolução de problemas e pensamento
+crítico. Para acompanhar essa evolução, será essencial desenvolver conhecimentos em
+lógica de programação, inteligência artificial, segurança da informação e aprendizado
+contínuo.
+</p>
+
+</section>
+
+</main>
+
+<footer>
+Projeto desenvolvido para atividade sobre Inteligência Artificial • 2026
+</footer>
+
+</body>
+</html>
